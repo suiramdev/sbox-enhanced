@@ -2,7 +2,13 @@
     "name": "sbox-enhanced",
     "displayName": "S&box Enhanced",
     "description": "S&box language support for VS Code.",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "suiramdev",
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/suiramdev/sbox-enhanced"
+    },
     "engines": {
         "vscode": "^1.46.0"
     },
